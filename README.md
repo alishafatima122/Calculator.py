@@ -1,2 +1,2 @@
-# Calculator_with_history.py
+# Calculator.py
 A simple code of calculator for beginners 
